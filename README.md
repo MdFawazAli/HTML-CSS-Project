@@ -16,5 +16,5 @@ The goal of this project was to improve my skills in HTML and CSS layout techniq
 ## 📷 Screenshots
 
 ![Screenshot 2025-06-29 153412](https://github.com/user-attachments/assets/6d3c8f46-87f0-41fe-b2df-ab52d8590128)
-![Screenshot 2025-06-29 153435](https://github.com/user-attachments/assets/09742ada-ea15-460f-8d93-78f93a60cc5a)
+![Screenshot 2025-06-29 153435 (2)](https://github.com/user-attachments/assets/0a85b0d0-c26f-492a-9f76-65089798a9d8)
 ![Screenshot 2025-06-29 153536](https://github.com/user-attachments/assets/7f88c420-16a0-47ee-ae25-eef7c5fdd17d)
