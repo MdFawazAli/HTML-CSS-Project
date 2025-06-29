@@ -1,1 +1,1 @@
-# HTML-CSS-Project
+# Amazon Webpage UI (HTML & CSS)
